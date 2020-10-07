@@ -1,0 +1,25 @@
+.titulo{
+    text-align: center;
+    color: rgb(7, 81, 83);
+}
+
+body {
+    background-image: url('17324.jpg') ;
+}
+
+.formulario{
+    width: 400px;
+    background: #24303c;
+    padding: 30px;
+    margin: auto;
+    margin-top: 100px;
+    border-radius: 4px;
+    font-family: 'calibri';
+    color: white;
+    box-shadow: 7px 13px 37px #000;
+}
+
+.titulo2{
+    color: white;
+}
+
